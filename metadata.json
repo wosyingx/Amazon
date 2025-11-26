@@ -1,0 +1,5 @@
+{
+  "name": "Amazon Listing Generator",
+  "description": "A professional tool to generate high-quality Amazon product assets (White BG, Lifestyle, Details) and A+ content from a single product photo using Gemini AI.",
+  "requestFramePermissions": []
+}
